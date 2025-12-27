@@ -50,7 +50,7 @@ DFS produced a longer and less optimal path, which may include unnecessary detou
 | Criterion | BFS | DFS |
 |--------|-----|-----|
 | Traversal strategy | Breadth-first | Depth-first |
-| Shortest path guarantee | ✅ Yes | ❌ No |
+| Shortest path guarantee | Yes |  No |
 | Dependence on node order | Low | High |
 | Path optimality | Optimal | Arbitrary |
 
